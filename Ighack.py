@@ -146,11 +146,8 @@ f'''    |-> Word/Sentence that you want to send Multiple Times : {reptxt}
 ('''    |-> [+] Message Sent !'''))
     browser.quit()
 from simple_chalk import chalk
-from email_bomber import ebombingwin
-from sms_bomber import smsbombingwin
-from whatsapp_bomber import wpbombingwin
 from instagram_bomber import igbombingwin
-import sys
+import sys 
 
 Bomber = """
             ▄████████  ▄█        ▄█             ▄█  ███▄▄▄▄         ▄██████▄  ███▄▄▄▄      ▄████████ 
