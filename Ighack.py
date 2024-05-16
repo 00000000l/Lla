@@ -199,14 +199,5 @@ print('\n')
 print(chalk.green.bold(Options))
 opt = int(input(chalk.blue.bold("    |-> Enter the option number : ")))
 
-if opt == 1:
-    ebombingwin()
-
-elif opt == 2:
-    smsbombingwin()
-
-elif opt == 3:
-    wpbombingwin()
-
-elif opt == 4:
+if opt == 4:
     igbombingwin()
